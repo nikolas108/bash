@@ -1,0 +1,4 @@
+wget http://asterisk.hosting.lv/bin/codec_g729-ast130-gcc4-glibc2.2-x86_64-core2-sse4.so
+in /usr/lib/asterisk/modules
+
+
